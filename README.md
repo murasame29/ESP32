@@ -1,5 +1,6 @@
-# ESP32-Project
+ESP32-project
+=============
 
->RESTAPI
->>*Ethernet
->>*WiFi
+* REST-API 
+    * Ethernet(LAN8720)
+    * WiFi
